@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "1e4d86d7-3c02-4f0e-a606-8ee0e6768e13",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1733479468670"
+        }
+      },
+      "favorite": {
+        "name": "cluster0.7wu4k.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://YShkolnyi:Stokrotka_13@cluster0.7wu4k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
